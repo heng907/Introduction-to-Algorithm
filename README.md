@@ -1,2 +1,3 @@
-# 2023 fall intro. algorithm
-## 授課老師: 施仁宗
+# Introduction to Algorithm
+### [NYCU 2023 Fall] Introduction to Algorithm
+### 授課老師: 施仁宗
